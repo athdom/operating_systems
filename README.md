@@ -1,8 +1,6 @@
-# Operating Systems (2019-2020)
+# Operating Systems 
 
-This repository contains **code** for the assignments of the **Operating Systems** lecture series held by NTUA during the 6th semester (Spring 2020) of the ECE undergraduate course.
-
-- Loyal Friend and Lab Partner: [Christos Dimopoulos](https://github.com/chrisdim)
+This repository contains **code** for the assignments of the **Operating Systems** lecture series.
 
 The assignments' topics involve:
 
